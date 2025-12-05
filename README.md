@@ -35,7 +35,7 @@ An accessible learning platform designed to empower visually impaired students w
 1. **Clone the repository**
    ```bash
    git clone https://github.com/R-Jashwanth/STEM-assistant-application.git
-   cd audio-stem-journey-main
+   cd STEM-assistant-application
    ```
 
 2. **Install dependencies**
@@ -77,7 +77,7 @@ The build output will be in the `dist` directory.
 ## 📁 Project Structure
 
 ```
-audio-stem-journey-main/
+STEM-assistant-application/
 ├── src/
 │   ├── components/       # Reusable UI components
 │   │   ├── admin/       # Admin-specific components
@@ -144,3 +144,4 @@ This project is licensed under the MIT License.
 ---
 
 Made with ❤️ for accessible education
+ble education
