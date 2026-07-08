@@ -1,5 +1,7 @@
 # 🎓 STEM Assistant Application
 
+[![GitHub stars](https://img.shields.io/github/stars/R-Jashwanth/STEM-assistant-application?style=social)](https://github.com/R-Jashwanth/STEM-assistant-application/stargazers) [![Forks](https://img.shields.io/github/forks/R-Jashwanth/STEM-assistant-application?style=social)](https://github.com/R-Jashwanth/STEM-assistant-application/network/members) [![Issues](https://img.shields.io/github/issues/R-Jashwanth/STEM-assistant-application)](https://github.com/R-Jashwanth/STEM-assistant-application/issues) [![License](https://img.shields.io/github/license/R-Jashwanth/STEM-assistant-application)](https://github.com/R-Jashwanth/STEM-assistant-application/blob/main/LICENSE) [![Top Language](https://img.shields.io/github/languages/top/R-Jashwanth/STEM-assistant-application)](https://github.com/R-Jashwanth/STEM-assistant-application) [![Repo Size](https://img.shields.io/github/repo-size/R-Jashwanth/STEM-assistant-application)](https://github.com/R-Jashwanth/STEM-assistant-application) [![Last Commit](https://img.shields.io/github/last-commit/R-Jashwanth/STEM-assistant-application)](https://github.com/R-Jashwanth/STEM-assistant-application/commits)
+
 An accessible learning platform designed to empower visually impaired students with enhanced STEM education through innovative audio processing and interactive learning experiences.
 
 ## 🌟 Features
@@ -89,7 +91,7 @@ STEM-assistant-application/
 │   ├── hooks/           # Custom React hooks
 │   ├── integrations/    # Third-party integrations (Supabase)
 │   ├── App.tsx          # Main application component
-│   └── main.tsx         # Application entry point
+│   │   └── main.tsx         # Application entry point
 ├── public/              # Static assets
 ├── supabase/            # Supabase configuration and migrations
 └── package.json         # Project dependencies
